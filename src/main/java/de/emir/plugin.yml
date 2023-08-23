@@ -1,0 +1,8 @@
+name: MLGRush
+author: EmirCGN
+version: 1.0
+main: de.jonxthxnlf.spairmc.game.mlgrush.main.Main
+commands:
+  start:
+  build:
+  stats:

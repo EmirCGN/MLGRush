@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MLGRush:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MLGRush_jar</output-path>
+    <root id="archive" name="MLGRush.jar">
+      <element id="module-output" name="MLGRush" />
+    </root>
+  </artifact>
+</component>
